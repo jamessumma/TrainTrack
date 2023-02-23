@@ -24,7 +24,12 @@
   color: white;
 }
 .window {
-  margin-left: 70px;
+  margin: auto;
+  display: block;
+}
+
+.buttons {
+  text-align: center;
 }
 h1 {text-align: center;}
 
